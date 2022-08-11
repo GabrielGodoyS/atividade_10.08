@@ -1,0 +1,6 @@
+a. Quem inventou o sistema de controle de versão Git e por quê?
+O GitHub foi desenvolvido por Chris Wanstrath, J. Hyett, Tom Preston-Werner e Scott Chacon usando Ruby on Rails, e começou em fevereiro de 2008. A empresa, GitHub, Inc., existe desde 2007 e está localizada em São Francisco. O sombreamento do mapa ilustra o número de usuários como uma proporção da população da Internet de cada país.
+b. Quem atualmente é o dono do Github e por quê?
+Microsoft, pois viram futuro nesse sistema 
+c. Existe outra maneira, além do terminal, de trabalhar com o Github?
+Sim
